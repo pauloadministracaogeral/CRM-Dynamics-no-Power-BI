@@ -26,4 +26,7 @@ Com base nas boas práticas de UX (User Experience) desenvolvemos os layouts de 
 - Validação das regras de negócio;
 - Apresentação e encerramento do projeto com steackholderes.
 
+## Query Editor
+![Screenshot_6](https://user-images.githubusercontent.com/69633540/97748886-8871be80-1ac4-11eb-9f0f-1a274a0ed07b.jpg)
+
 Por razão de sigilo dos dados e da organização, não foi incluída a URL do projeto.
