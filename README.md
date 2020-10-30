@@ -3,11 +3,10 @@
 ## O PROJETO
  Desenvolvimento de painéis de dashboards para os níveis Estratégico e Tático da organização, focando o monitoramento dos resultados por meio dos indicadores de desempenho nos assuntos Oportunidades, Propostas e Contratos (Pipeline).
 
-![Screenshot_5 (1)](https://user-images.githubusercontent.com/69633540/97747018-abe73a00-1ac1-11eb-8523-d850c4083cef.jpg)
-
 Com base nas boas práticas de UX (User Experience) desenvolvemos os layouts de visualização dos indicadores de desempenho, onde apresentamos uma primeira linha voltada aos filtros de navegação, a segunda linha dedicada aos dados sumarizados (totalizados), posteriormente agregamos por categorias e uma quarta linha com o maior nível de granularidade, também foram incluídos modelos visuais de mapas e um Pipeline de Vendas onde o usuário pode simular os seus resultados.
- 
+
  O painel foi compartilhado com as equipes de vendas, gestores e diretores da organização melhorando a gestão por resultados da empresa.
+![Screenshot_5 (1)](https://user-images.githubusercontent.com/69633540/97747018-abe73a00-1ac1-11eb-8523-d850c4083cef.jpg) 
 
 ## FASES DO PROJETO:
 - Levantamento de requisitos,
