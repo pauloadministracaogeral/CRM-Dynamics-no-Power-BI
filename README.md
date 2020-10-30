@@ -29,4 +29,9 @@ Com base nas boas práticas de UX (User Experience) desenvolvemos os layouts de 
 ## Query Editor
 ![Screenshot_6](https://user-images.githubusercontent.com/69633540/97748886-8871be80-1ac4-11eb-9f0f-1a274a0ed07b.jpg)
 
-Por razão de sigilo dos dados e da organização, não foi incluída a URL do projeto.
+## Navegação
+
+Aqui temos um exemplo da navegação que foi desenvolvida, com segmentação por período, com visualização de mapa e outras dimensões 
+![Screenshot_7](https://user-images.githubusercontent.com/69633540/97750708-b4db0a00-1ac7-11eb-9896-4a94b5958c78.jpg)
+
+**Por razão de sigilo dos dados e da organização, não foi incluída a URL do projeto.**
